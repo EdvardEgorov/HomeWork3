@@ -1,0 +1,15 @@
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\bin\Debug\net6.0\tasck19.exe
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\bin\Debug\net6.0\tasck19.deps.json
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\bin\Debug\net6.0\tasck19.runtimeconfig.json
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\bin\Debug\net6.0\tasck19.dll
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\bin\Debug\net6.0\tasck19.pdb
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\tasck19.csproj.AssemblyReference.cache
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\tasck19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\tasck19.AssemblyInfoInputs.cache
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\tasck19.AssemblyInfo.cs
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\tasck19.csproj.CoreCompileInputs.cache
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\tasck19.dll
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\refint\tasck19.dll
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\tasck19.pdb
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\tasck19.genruntimeconfig.cache
+C:\Example C#\HomeWorkLesson3\HomeWork3\tasck19\obj\Debug\net6.0\ref\tasck19.dll
